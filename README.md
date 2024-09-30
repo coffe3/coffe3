@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @coffe3
 - 👀 I’m interested in web3, crypto etc.
 - 🌱 I’m currently doing The Odin Project :)
-- 📫 How to reach me, mail to govingtpofficial@gmail.com
+- 📫 How to reach me, mail to govingtp.work@gmail.com
